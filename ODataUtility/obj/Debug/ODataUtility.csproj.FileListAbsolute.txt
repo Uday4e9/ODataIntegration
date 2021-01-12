@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\ODataUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\ODataUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.Spatial.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\microsoft.identitymodel.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
